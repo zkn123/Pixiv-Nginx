@@ -1,0 +1,108 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+        Signature Algorithm: ecdsa-with-SHA256
+        Issuer: C=CN, O=FuckGFW Foundation, CN=Pixiv.net
+        Validity
+            Not Before: Oct 20 14:52:02 2025 GMT
+            Not After : Oct 20 14:52:02 2026 GMT
+        Subject: C=CN, O=FuckGFW Foundation, CN=PixivCA
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+                Public-Key: (384 bit)
+                pub:
+                    04:62:dd:7e:2e:c0:e4:93:a2:d9:dd:0c:fc:30:72:
+                    1b:25:f3:dd:0d:57:76:d4:98:1e:09:b5:2f:b4:47:
+                    23:12:21:93:8a:ea:af:76:79:78:87:72:e9:24:27:
+                    f3:c6:c4:bc:88:6d:7d:78:03:ff:81:e6:ca:49:fa:
+                    77:22:17:01:7b:62:cb:ce:a9:b2:6a:7c:99:41:c7:
+                    ed:fe:53:82:22:36:7b:79:f8:58:f6:cd:06:65:7a:
+                    d3:5d:f3:51:c5:38:22
+                ASN1 OID: secp384r1
+                NIST CURVE: P-384
+        X509v3 extensions:
+            X509v3 Key Usage: 
+                Digital Signature
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Alternative Name: 
+                DNS:localhost, DNS:*.pixiv.net, DNS:pixiv.net, DNS:*.secure.pixiv.net, DNS:pixivision.net, DNS:*.pixivision.net, DNS:huggingface.co, DNS:pximg.net, DNS:*.pximg.net, DNS:pixivsketch.net, DNS:*.pixivsketch.net, DNS:public-api.secure.pixiv.net, DNS:wikipedia.org, DNS:*.wikipedia.org, DNS:m.wikipedia.org, DNS:*.m.wikipedia.org, DNS:google.com, DNS:*.google.com, DNS:steamcommunity.com, DNS:*.steamcommunity.com, DNS:steampowered.com, DNS:*.steampowered.com, DNS:archiveofourown.org, DNS:*.archiveofourown.org, DNS:nyaa.si, DNS:*.nyaa.si, DNS:wikimedia.org, DNS:upload.wikimedia.org, DNS:exhentai.org, DNS:e-hentai.org, DNS:*.e-hentai.org, DNS:*.zodgame.xyz, DNS:zodgame.xyz, DNS:*.instagram.com, DNS:instagram.com, DNS:i.instagram.com, DNS:pics.dmm.co.jp, DNS:warwetretyry.com, DNS:asiantolick.com, DNS:cdn2.asiantolick.com, DNS:*.telegram.org, DNS:ehgt.org, DNS:sehuatang.net, DNS:pornhub.com, DNS:*.pornhub.com, DNS:mega.nz, DNS:mega.io, DNS:cdn.akamai.steamstatic.com, DNS:reddit.com, DNS:*.reddit.com, DNS:*.rlcdn.com, DNS:*.redd.it, DNS:*.redditmedia.com, DNS:redditmedia.com, DNS:*.redditstatic.com, DNS:gfycat.com, DNS:*.cdninstagram.com, DNS:*.illusion.jp, DNS:*.quora.com, DNS:*.slideshare.net, DNS:*.slidesharecdn.com, DNS:*.twitch.tv, DNS:*.twitch.com, DNS:*.jtvnw.net, DNS:*.ttvnw.net, DNS:*.cometbbs.com, DNS:*.archive.org, DNS:kisskiss.tv, DNS:*.kisskiss.tv, DNS:*.imgur.com, DNS:imgur.com, DNS:*.imagebam.com, DNS:imagebam.com, DNS:*.hegre.com, DNS:qsf.fs.quoracdn.net, DNS:*.github.com, DNS:github.com, DNS:steamcdn-a.akamaihd.net, DNS:com3d2.jp, DNS:*.com3d2.jp, DNS:*.gfycat.com, DNS:*.marxists.org, DNS:marxists.org, DNS:*.getchu.com, DNS:getchu.com, DNS:*.uuzzxxun.website, DNS:*.dmm.co.jp, DNS:dmm.co.jp, DNS:dlsite.com, DNS:*.dlsite.com, DNS:play.dl.dlsite.com, DNS:*.nijiyome.jp, DNS:*.nr-data.net, DNS:g.api.mega.co.nz, DNS:ziz-entertainment.com, DNS:*.tiktok.com, DNS:*.tiktokcdn.com, DNS:*.mega.io, DNS:*.mega.nz, DNS:*.daumcdn.net, DNS:*.bbc.com, DNS:socket.streamable.com, DNS:*.setn.com, DNS:illusion.jp, DNS:*.newgrounds.com, DNS:media.ci-en.jp, DNS:ci-en.net, DNS:vscode.dev, DNS:*.vscode.dev, DNS:onedrive.live.com, DNS:*.onedrive.live.com, DNS:mingjiabaike.com, DNS:*.epicgames.com, DNS:*.onedrive.com, DNS:*.vo.msecnd.net, DNS:login.live.com, DNS:yande.re, DNS:www.sehuatang.net, DNS:www.98tuch.net, DNS:www.javbus.com, DNS:kejibear.top, DNS:*.yande.re, DNS:www.cuffs-sphere.jp, DNS:cn.gravatar.com, DNS:raw.githubusercontent.com, DNS:github.githubassets.com, DNS:origin-a.akamaihd.net, DNS:*.akamaihd.net, DNS:*.rockstargames.com, DNS:*.github.io, DNS:github.io, DNS:*.moepan.pro, DNS:mengzhan18.com, DNS:mengzhanacgn.net, DNS:*.mengzhan18.com, DNS:dns.google, DNS:support.opendns.com, DNS:*.mgstage.com, DNS:*.amazon.co.jp, DNS:asmr.one, DNS:meta.wikimedia.org, DNS:objects.githubusercontent.com, DNS:local.alist.com, DNS:steamloopback.host, DNS:*.opendns.com, DNS:local.openwebui.com, DNS:*.dns.nextdns.io, DNS:dns.nextdns.io
+            X509v3 Subject Key Identifier: 
+                D0:A9:8F:84:EE:B1:3D:1A:2A:3C:53:C1:63:6F:66:2F:88:C2:08:8E
+            X509v3 Authority Key Identifier: 
+                A8:34:BE:A2:F9:FA:10:C2:DB:F0:B7:A8:F2:51:8F:60:69:F0:D4:94
+    Signature Algorithm: ecdsa-with-SHA256
+    Signature Value:
+        30:65:02:31:00:8a:88:bb:6b:a8:00:85:34:0e:6a:f5:be:b0:
+        2f:86:06:cd:2f:79:05:49:e0:91:64:1f:bf:cb:01:95:9f:1f:
+        b2:3b:00:8f:f1:43:1d:6d:43:66:14:39:22:c4:bd:e3:db:02:
+        30:71:ce:0b:26:cb:46:fd:4a:04:7b:41:74:56:16:ed:6d:23:
+        87:5e:8d:43:1b:d8:c7:f4:53:06:f1:09:1e:0b:f0:91:c7:84:
+        db:ba:de:e7:6a:89:bd:fd:5e:54:fb:07:03
+-----BEGIN CERTIFICATE-----
+MIILdjCCCvygAwIBAgIBATAKBggqhkjOPQQDAjA+MQswCQYDVQQGEwJDTjEbMBkG
+A1UECgwSRnVja0dGVyBGb3VuZGF0aW9uMRIwEAYDVQQDDAlQaXhpdi5uZXQwHhcN
+MjUxMDIwMTQ1MjAyWhcNMjYxMDIwMTQ1MjAyWjA8MQswCQYDVQQGEwJDTjEbMBkG
+A1UECgwSRnVja0dGVyBGb3VuZGF0aW9uMRAwDgYDVQQDDAdQaXhpdkNBMHYwEAYH
+KoZIzj0CAQYFK4EEACIDYgAEYt1+LsDkk6LZ3Qz8MHIbJfPdDVd21JgeCbUvtEcj
+EiGTiuqvdnl4h3LpJCfzxsS8iG19eAP/gebKSfp3IhcBe2LLzqmyanyZQcft/lOC
+IjZ7efhY9s0GZXrTXfNRxTgio4IJzjCCCcowCwYDVR0PBAQDAgeAMB0GA1UdJQQW
+MBQGCCsGAQUFBwMBBggrBgEFBQcDAjAJBgNVHRMEAjAAMIIJTwYDVR0RBIIJRjCC
+CUKCCWxvY2FsaG9zdIILKi5waXhpdi5uZXSCCXBpeGl2Lm5ldIISKi5zZWN1cmUu
+cGl4aXYubmV0gg5waXhpdmlzaW9uLm5ldIIQKi5waXhpdmlzaW9uLm5ldIIOaHVn
+Z2luZ2ZhY2UuY2+CCXB4aW1nLm5ldIILKi5weGltZy5uZXSCD3BpeGl2c2tldGNo
+Lm5ldIIRKi5waXhpdnNrZXRjaC5uZXSCG3B1YmxpYy1hcGkuc2VjdXJlLnBpeGl2
+Lm5ldIINd2lraXBlZGlhLm9yZ4IPKi53aWtpcGVkaWEub3Jngg9tLndpa2lwZWRp
+YS5vcmeCESoubS53aWtpcGVkaWEub3Jnggpnb29nbGUuY29tggwqLmdvb2dsZS5j
+b22CEnN0ZWFtY29tbXVuaXR5LmNvbYIUKi5zdGVhbWNvbW11bml0eS5jb22CEHN0
+ZWFtcG93ZXJlZC5jb22CEiouc3RlYW1wb3dlcmVkLmNvbYITYXJjaGl2ZW9mb3Vy
+b3duLm9yZ4IVKi5hcmNoaXZlb2ZvdXJvd24ub3JnggdueWFhLnNpggkqLm55YWEu
+c2mCDXdpa2ltZWRpYS5vcmeCFHVwbG9hZC53aWtpbWVkaWEub3JnggxleGhlbnRh
+aS5vcmeCDGUtaGVudGFpLm9yZ4IOKi5lLWhlbnRhaS5vcmeCDSouem9kZ2FtZS54
+eXqCC3pvZGdhbWUueHl6gg8qLmluc3RhZ3JhbS5jb22CDWluc3RhZ3JhbS5jb22C
+D2kuaW5zdGFncmFtLmNvbYIOcGljcy5kbW0uY28uanCCEHdhcndldHJldHlyeS5j
+b22CD2FzaWFudG9saWNrLmNvbYIUY2RuMi5hc2lhbnRvbGljay5jb22CDioudGVs
+ZWdyYW0ub3JngghlaGd0Lm9yZ4INc2VodWF0YW5nLm5ldIILcG9ybmh1Yi5jb22C
+DSoucG9ybmh1Yi5jb22CB21lZ2EubnqCB21lZ2EuaW+CGmNkbi5ha2FtYWkuc3Rl
+YW1zdGF0aWMuY29tggpyZWRkaXQuY29tggwqLnJlZGRpdC5jb22CCyoucmxjZG4u
+Y29tggkqLnJlZGQuaXSCESoucmVkZGl0bWVkaWEuY29tgg9yZWRkaXRtZWRpYS5j
+b22CEioucmVkZGl0c3RhdGljLmNvbYIKZ2Z5Y2F0LmNvbYISKi5jZG5pbnN0YWdy
+YW0uY29tgg0qLmlsbHVzaW9uLmpwggsqLnF1b3JhLmNvbYIQKi5zbGlkZXNoYXJl
+Lm5ldIITKi5zbGlkZXNoYXJlY2RuLmNvbYILKi50d2l0Y2gudHaCDCoudHdpdGNo
+LmNvbYILKi5qdHZudy5uZXSCCyoudHR2bncubmV0gg4qLmNvbWV0YmJzLmNvbYIN
+Ki5hcmNoaXZlLm9yZ4ILa2lzc2tpc3MudHaCDSoua2lzc2tpc3MudHaCCyouaW1n
+dXIuY29tgglpbWd1ci5jb22CDiouaW1hZ2ViYW0uY29tggxpbWFnZWJhbS5jb22C
+CyouaGVncmUuY29tghNxc2YuZnMucXVvcmFjZG4ubmV0ggwqLmdpdGh1Yi5jb22C
+CmdpdGh1Yi5jb22CF3N0ZWFtY2RuLWEuYWthbWFpaGQubmV0ggljb20zZDIuanCC
+CyouY29tM2QyLmpwggwqLmdmeWNhdC5jb22CDioubWFyeGlzdHMub3JnggxtYXJ4
+aXN0cy5vcmeCDCouZ2V0Y2h1LmNvbYIKZ2V0Y2h1LmNvbYISKi51dXp6eHh1bi53
+ZWJzaXRlggsqLmRtbS5jby5qcIIJZG1tLmNvLmpwggpkbHNpdGUuY29tggwqLmRs
+c2l0ZS5jb22CEnBsYXkuZGwuZGxzaXRlLmNvbYINKi5uaWppeW9tZS5qcIINKi5u
+ci1kYXRhLm5ldIIQZy5hcGkubWVnYS5jby5ueoIVeml6LWVudGVydGFpbm1lbnQu
+Y29tggwqLnRpa3Rvay5jb22CDyoudGlrdG9rY2RuLmNvbYIJKi5tZWdhLmlvggkq
+Lm1lZ2EubnqCDSouZGF1bWNkbi5uZXSCCSouYmJjLmNvbYIVc29ja2V0LnN0cmVh
+bWFibGUuY29tggoqLnNldG4uY29tggtpbGx1c2lvbi5qcIIQKi5uZXdncm91bmRz
+LmNvbYIObWVkaWEuY2ktZW4uanCCCWNpLWVuLm5ldIIKdnNjb2RlLmRldoIMKi52
+c2NvZGUuZGV2ghFvbmVkcml2ZS5saXZlLmNvbYITKi5vbmVkcml2ZS5saXZlLmNv
+bYIQbWluZ2ppYWJhaWtlLmNvbYIPKi5lcGljZ2FtZXMuY29tgg4qLm9uZWRyaXZl
+LmNvbYIPKi52by5tc2VjbmQubmV0gg5sb2dpbi5saXZlLmNvbYIIeWFuZGUucmWC
+EXd3dy5zZWh1YXRhbmcubmV0gg53d3cuOTh0dWNoLm5ldIIOd3d3LmphdmJ1cy5j
+b22CDGtlamliZWFyLnRvcIIKKi55YW5kZS5yZYITd3d3LmN1ZmZzLXNwaGVyZS5q
+cIIPY24uZ3JhdmF0YXIuY29tghlyYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tghdn
+aXRodWIuZ2l0aHViYXNzZXRzLmNvbYIVb3JpZ2luLWEuYWthbWFpaGQubmV0gg4q
+LmFrYW1haWhkLm5ldIITKi5yb2Nrc3RhcmdhbWVzLmNvbYILKi5naXRodWIuaW+C
+CWdpdGh1Yi5pb4IMKi5tb2VwYW4ucHJvgg5tZW5nemhhbjE4LmNvbYIQbWVuZ3po
+YW5hY2duLm5ldIIQKi5tZW5nemhhbjE4LmNvbYIKZG5zLmdvb2dsZYITc3VwcG9y
+dC5vcGVuZG5zLmNvbYINKi5tZ3N0YWdlLmNvbYIOKi5hbWF6b24uY28uanCCCGFz
+bXIub25lghJtZXRhLndpa2ltZWRpYS5vcmeCHW9iamVjdHMuZ2l0aHVidXNlcmNv
+bnRlbnQuY29tgg9sb2NhbC5hbGlzdC5jb22CEnN0ZWFtbG9vcGJhY2suaG9zdIIN
+Ki5vcGVuZG5zLmNvbYITbG9jYWwub3BlbndlYnVpLmNvbYIQKi5kbnMubmV4dGRu
+cy5pb4IOZG5zLm5leHRkbnMuaW8wHQYDVR0OBBYEFNCpj4TusT0aKjxTwWNvZi+I
+wgiOMB8GA1UdIwQYMBaAFKg0vqL5+hDC2/C3qPJRj2Bp8NSUMAoGCCqGSM49BAMC
+A2gAMGUCMQCKiLtrqACFNA5q9b6wL4YGzS95BUngkWQfv8sBlZ8fsjsAj/FDHW1D
+ZhQ5IsS949sCMHHOCybLRv1KBHtBdFYW7W0jh16NQxvYx/RTBvEJHgvwkceE27re
+52qJvf1eVPsHAw==
+-----END CERTIFICATE-----

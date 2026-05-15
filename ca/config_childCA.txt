@@ -159,6 +159,13 @@ DNS.145 = *.opendns.com
 DNS.146 = local.openwebui.com
 DNS.147 = *.dns.nextdns.io
 DNS.148 = dns.nextdns.io
+DNS.149 = *.redgifs.com
+DNS.150 = onlyfans.com
+DNS.151 = *.onlyfans.com
+DNS.152 = linktr.ee
+DNS.153 = *.linktr.ee
+DNS.154 = *.amazon.com
+DNS.155 = archive.org
 [ v3_req ]
 keyUsage				= digitalSignature
 extendedKeyUsage			= serverAuth,clientAuth

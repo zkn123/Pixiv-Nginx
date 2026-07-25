@@ -166,6 +166,9 @@ DNS.152 = linktr.ee
 DNS.153 = *.linktr.ee
 DNS.154 = *.amazon.com
 DNS.155 = archive.org
+DNS.156 = *.escude.co.jp
+DNS.157 = *.rakuten.co.jp
+
 [ v3_req ]
 keyUsage				= digitalSignature
 extendedKeyUsage			= serverAuth,clientAuth
